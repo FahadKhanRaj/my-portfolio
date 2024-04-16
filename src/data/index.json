@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Programming Languages",
+      "description": "Python, JavaScript, C, Java"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Web Development Skills",
+      "description": "Node.js, React, Express, CSS, Bootstrap, MongoDB"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Other Technical Skills",
+      "description": "Adobe Photoshop, Adobe Illustrator, Microsoft Excel, Microsoft Powerpoint, Microsoft Word"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Soft Skills",
+      "description": "Problem Solving, Communication, Teamwork, Critical thinking, Time management"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/vecteezy_search-icon-on-a-web-page-search-on-web-page-with_21459717.png",
+      "title": "Project 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elite.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/vecteezy_search-icon-on-a-web-page-search-on-web-page-with_21459717.png",
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/vecteezy_search-icon-on-a-web-page-search-on-web-page-with_21459717.png",
+      "title": "Project 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
